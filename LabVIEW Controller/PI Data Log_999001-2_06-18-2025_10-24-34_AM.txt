@@ -1,0 +1,1 @@
+Time Stamp,Set Point Value [],Mass Flow [],Volumetric Flow [],Totalizer#1  [],Totalizer#2 [],Temperature [C],Pressure [],Flow Alarm,Temp. Alarm,Pressure Alarm

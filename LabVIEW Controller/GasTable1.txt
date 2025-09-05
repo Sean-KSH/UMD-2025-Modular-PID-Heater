@@ -1,0 +1,31 @@
+Air,0
+Argon,1
+Carbon Dioxide,2
+Nitrogen,3
+Oxygen,4
+Helium,5
+Carbon Monoxide,6
+Ethylene,7
+Ethane,8
+n-Butane,9
+i-Butane,10
+Propane,11
+Deuterium,12
+Hydrogen,13
+Nitrous Oxide,14
+Methane,15
+Neon,16
+Krypton,17
+Sulfur Hexafluoride,18
+Xenon,19
+Acetylene,20
+25CO2/75Ar,21
+10CO2/90Ar,22
+8CO2/92Ar,23
+2CO2/98Ar,24
+75CO2/25Ar,25
+75He/25Ar,26
+25He/75Ar,27
+He A1025,28
+StargonCS,29
+95Ar/5CH4,30
